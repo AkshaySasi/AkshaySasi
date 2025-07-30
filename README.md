@@ -1,13 +1,22 @@
 <h1 align="center">Hi there 👋, I'm Akshay Sasi</h1>
-<h3 align="center">AI Engineer | Creative Technologist | Storyteller with Code</h3>
+<h3 align="center">🎓 AI Engineer | LLM Developer | Cognitive Enthusiast </h3>
+<h3 align="center">📍 Based in Kerala, India | 🚀 Turning ideas into AI-powered realities </h3>
 
 ---
 
-🚀 **About Me**  
-I’m an AI Engineer with a deep curiosity for how intelligence can be built, enhanced, and creatively applied.  
-From engineering in Kannur to AI research in Trivandrum — my journey has taken me from **frontend code** to **neural networks**, and from **hackathons** to **AI-powered storytelling**.
+## 🔭 About Me
 
-I'm passionate about building impactful, real-world applications — whether it's an **LLM-powered legal assistant**, an **AI-based health twin**, or a **creative jingle generator** using generative audio models.
+I’m an AI Engineer currently working at **Storygame (P) Ltd**, blending creativity with code to develop cutting-edge GenAI and NLP-based products. From model fine-tuning and inference to lip-sync generation and AI agents, I thrive at the intersection of research and rapid prototyping.
+
+Previously, I interned at **Quest Global** and **AI Chip Center** at Digital University Kerala, working across predictive modeling, processor architecture, and compiler design.
+
+I'm passionate about meaningful tech—be it legal AI tools, mental health agents, or audio branding generators.
+
+---
+
+## 💼 Experience
+
+- **My Experience is my Projects...**  
 
 ---
 
@@ -20,60 +29,56 @@ I'm passionate about building impactful, real-world applications — whether it'
 
 ---
 
-🧰 **Tech Stack & Tools**
+## 🚀 Featured Projects
 
-| AI/ML & NLP | Web Dev | DevOps & Tools | Databases |
-|------------|---------|----------------|-----------|
-| PyTorch, Transformers 🤗, Sentence Transformers, HDBSCAN, UMAP, Optuna, NLTK, SpaCy, LangChain, DeepSpeed | React.js, Tailwind, HTML/CSS, FastAPI, Streamlit | Docker, Git, VS Code, HuggingFace Hub, Colab, Weights & Biases | SQLite, PostgreSQL, MongoDB |
+### `Baymax.AI` – Emotionally Intelligent Conversational Agent  
+*Python, PyTorch, Gemini 2.5 Flash, React*  
+Built a 90% accurate sentiment-aware chatbot supporting mental well-being.
 
----
+### `NeRO 2.0` – Multi-Agent Research Assistant  
+*LangChain, Google Gemini, Gradio*  
+Pulled research insights from Google Scholar/Wikipedia in a live conversational format.
 
-📂 **Featured Projects**
+### `Heart-Brain Connection Thesis`  
+*NeuroKit2, MNE, Python*  
+Multimodal cognitive load classification using ECG + EEG, achieving 92% accuracy.
 
-### 🧑‍⚖️ LegalAI Chatbot & Knowledge Base
-LLM-based AI chatbot for legal document understanding and Q&A, with full FastAPI backend and vector-based knowledge search.
+### `Jingly.AI` – AI Audio Branding Generator  
+*GenAI Audio Tools, Prompt Engineering*  
+Created jingles for brand campaigns using Gen-AI and audio synthesis.
 
-> 🔧 Tech: OCR, NER, Sentence Transformers, Pinecone, LangChain, FastAPI
-
----
-
-### 🧠 AI Digital Health Twin
-Simulates lifestyle-driven long-term health outcomes. Predictive and interactive.
-
-> 🔧 Tech: Scikit-learn, Streamlit, pandas, Matplotlib
-
----
-
-### 🎶 Jingly.AI — Audio Branding Generator (Hackgen AI)
-An AI-powered tool that helps brands generate unique jingles using text-to-music intelligence.
-
-> 🔧 Tech: Gen-AI audio tools, Prompt Engineering, UI prototyping
+### `Gen-Scraper` – Amazon Review Analyzer  
+*Python, Selenium, HuggingFace*  
+Detected AI-generated reviews with 85% accuracy using DistilBERT.
 
 ---
 
-### 🔥 Incident Clustering & Semantic Search Engine
-Clustering and similarity search over incident logs using Sentence Transformers + UMAP + HDBSCAN, with a live semantic search UI.
+## 🧰 Skills & Tech Stack
 
-> 🔧 Tech: Sentence Transformers, UMAP, HDBSCAN, FastAPI, React, Axios
+**Languages:** Python, C, Java, SQL  
+**Web:** HTML, CSS, JS, React, Tailwind  
+**ML/DL:** PyTorch, TensorFlow, HuggingFace, OpenCV  
+**Tools:** FastAPI, Streamlit, Git, Docker, Canva, LangChain  
+**Soft Skills:** Leadership, Creative Thinking, Communication  
 
----
-
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaysasi&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysasi&theme=radical" alt="GitHub Streak" height="150" />
-</p>
 
 ---
 
-📫 **Connect With Me**
+## 📈 GitHub Stats
 
-- 🌐 [LinkedIn](https://linkedin.com/in/akshaysasi)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- ✉️ akshaysasi[at]gmail[dot]com
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaysasi&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=akshaysasi&theme=radical)
 
 ---
 
-*“The best way to predict the future is to build it — line by line.”*
+## 🤝 Let's Connect!
+
+- 📫 Email: akshaysasi[at]gmail[dot]com  
+- 💼 [LinkedIn](https://linkedin.com/in/akshaysasi)  
+- 🌐 [Portfolio]:(https://akshaysasi.github.io/Personal-Portfolio/)
+
+> *“Don’t just learn the tools. Learn why you’re building in the first place.”*
+
+---
+
 
