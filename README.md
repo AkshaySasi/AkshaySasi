@@ -21,13 +21,6 @@ I like working on projects that teach me something new, push me to think harder,
 
 ---
 
-🧠 **What I Do**
-- 🤖 Build and deploy AI/ML solutions (LLMs, Transformers, Generative AI)
-- ⚙️ Design intelligent systems using Python, FastAPI, Docker, and cloud tools.
-- 🧬 Craft experimental cognitive computing and agentic AI ideas.
-- 🌐 Build full-stack projects using React, Tailwind and Python when needed.
-
----
 
 ## 🚀 Featured Projects
 
