@@ -88,7 +88,7 @@ Detected AI-generated reviews with 85% accuracy using DistilBERT.
 
 - 📫 Email: akshaysasi[at]gmail[dot]com  
 - 💼 [LinkedIn](https://linkedin.com/in/akshaysasi)  
-- 🌐 [Portfolio]:(https://akshaysasi.github.io/Personal-Portfolio/)
+- 🌐 [Portfolio]:(https://akshaysasi.github.io/)
 
 <h3 alighn="center">*“Made by Akshay Sasi”*</h3> 
 
