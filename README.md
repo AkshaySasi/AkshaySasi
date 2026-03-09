@@ -23,13 +23,13 @@
 
 I build **AI systems, intelligent agents, and applied machine learning solutions** that bridge research and real-world deployment.
 
-🔮 **Agentic AI systems** — autonomous agents that reason and act
-🧬 **Cognitive architectures** — biologically-inspired memory for AI
-🔐 **Privacy-preserving AI** — secure LLM middleware
-🧠 **Edge AI** — local-first, offline intelligence
-🔬 **AI research** — alignment, behavior, cognition
+🔮 **Agentic AI systems** - autonomous agents that reason and act
+🧬 **Cognitive architectures** - biologically-inspired memory for AI
+🔐 **Privacy-preserving AI** - secure LLM middleware
+🧠 **Edge AI** - local-first, offline intelligence
+🔬 **AI research** - alignment, behavior, cognition
 
-> *I don't just use AI — I engineer the systems that make AI work.*
+> *I don't just use AI, I engineer the systems that make AI work.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -43,7 +43,7 @@ I build **AI systems, intelligent agents, and applied machine learning solutions
 ### 🧠 [Neurogram](https://github.com/AkshaySasi/Neurogram)
 **Cognitive Memory Architecture for AI Agents**
 
-Biologically-inspired memory system — semantic, episodic & procedural memory with Ebbinghaus forgetting curves, consolidation, and importance scoring.
+Biologically-inspired memory system with semantic, episodic & procedural memory, Ebbinghaus forgetting curves, consolidation, and importance scoring.
 
 `Python` `LangChain` `SQLite` `Cognitive AI`
 
@@ -68,16 +68,6 @@ Privacy-first healthcare AI running entirely on local LLM inference via Ollama. 
 `Ollama` `Local AI` `Healthcare` `Privacy-First`
 
 </td></tr>
-<tr><td>
-
-### 🎧 [GROOVE](https://github.com/AkshaySasi/GROOVE)
-**AI Audio Generation Framework**
-
-Experimental platform for AI-generated music and audio branding. Generative sound pipelines & audio prompt engineering.
-
-`Generative Audio` `AI Music` `Creative AI`
-
-</td></tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -90,7 +80,7 @@ Experimental platform for AI-generated music and audio branding. Generative soun
 <tr><td>
 
 ### 🧠 Unveiling the Heart-Brain Connection
-**Multimodal Physiological Signal Analysis — EEG + ECG**
+**Multimodal Physiological Signal Analysis, EEG + ECG**
 
 Cognitive state classification using fused EEG and ECG signals. Built a full pipeline from signal preprocessing to ML classification.
 
@@ -104,7 +94,7 @@ Cognitive state classification using fused EEG and ECG signals. Built a full pip
 ### 🤖 Edge AI Voice Agent
 **Low-Latency Offline Voice Assistant**
 
-Fully offline voice interaction system optimized for edge hardware. ASR → LLM reasoning → TTS, all running locally with no cloud dependency.
+Fully offline voice interaction system optimized for edge hardware. ASR to LLM reasoning to TTS, all running locally with no cloud dependency.
 
 ⚡ **Target latency: <500ms**
 
@@ -136,7 +126,7 @@ Studying how LLM fine-tuning behavior degrades under corrupted training data. An
 ### 🧬 Agent Memory Systems
 **Cross-Session Knowledge Persistence**
 
-Research into long-term memory retention for autonomous AI agents — how agents maintain, consolidate, and recall knowledge across sessions.
+Research into long-term memory retention for autonomous AI agents, how agents maintain, consolidate, and recall knowledge across sessions.
 
 `Cognitive AI` `Memory Architecture` `Agent Systems` `Knowledge Graphs`
 
@@ -192,19 +182,25 @@ Research into long-term memory retention for autonomous AI agents — how agents
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshaySasi&show_icons=true&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&icon_color=06B6D4&hide_border=true" width="90%"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AkshaySasi&show_icons=true&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&icon_color=06B6D4&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkshaySasi&show_icons=true&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&icon_color=06B6D4&hide_border=true&cache_seconds=86400" width="90%" alt="GitHub Stats"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AkshaySasi&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=AkshaySasi&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" width="90%" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySasi&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&hide_border=true" width="90%"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySasi&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySasi&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&hide_border=true&cache_seconds=86400" width="90%" alt="Top Languages"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshaySasi&bg_color=0d1117&color=06B6D4&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshaySasi&bg_color=0d1117&color=06B6D4&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
