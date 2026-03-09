@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+Building+Intelligent+Systems+That+Think;%F0%9F%94%AE+Agentic+AI+%E2%80%A2+LLM+Infra+%E2%80%A2+Cognitive+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+Building+Intelligent+Systems+That+Think;%F0%9F%94%AE+Agentic+AI+%E2%80%A2+LLM+Infra+%E2%80%A2+Cognitive+Models" />
 
 <br/>
 
@@ -37,71 +37,48 @@ I build **AI systems, intelligent agents, and applied machine learning solutions
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
-<div align="center">
+<table>
+<tr><td>
 
-<a href="https://github.com/AkshaySasi/Neurogram">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=Neurogram&theme=radical&bg_color=0d1117&border_color=8B5CF6&icon_color=06B6D4&title_color=EC4899&text_color=c9d1d9" width="90%"/>
-</a>
+### 🧠 [Neurogram](https://github.com/AkshaySasi/Neurogram)
+**Cognitive Memory Architecture for AI Agents**
 
-<br/>
+Biologically-inspired memory system — semantic, episodic & procedural memory with Ebbinghaus forgetting curves, consolidation, and importance scoring.
 
-<a href="https://github.com/AkshaySasi/GlassLM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=GlassLM&theme=radical&bg_color=0d1117&border_color=06B6D4&icon_color=8B5CF6&title_color=EC4899&text_color=c9d1d9" width="90%"/>
-</a>
+`Python` `LangChain` `SQLite` `Cognitive AI`
 
-<br/>
+</td></tr>
+<tr><td>
 
-<a href="https://github.com/AkshaySasi/Delumie">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=Delumie&theme=radical&bg_color=0d1117&border_color=EC4899&icon_color=06B6D4&title_color=8B5CF6&text_color=c9d1d9" width="90%"/>
-</a>
+### 🔐 [GlassLM](https://github.com/AkshaySasi/GlassLM)
+**Privacy-Preserving LLM Middleware**
 
-<br/>
+Intercepts and sanitizes prompts before they reach LLM APIs. Reversible tokenization, client-side processing, Chrome extension + SDKs (`pip` + `npm`).
 
-<a href="https://github.com/AkshaySasi/GROOVE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=GROOVE&theme=radical&bg_color=0d1117&border_color=8B5CF6&icon_color=EC4899&title_color=06B6D4&text_color=c9d1d9" width="90%"/>
-</a>
+`Privacy` `LLM Security` `Chrome Extension` `SDK`
 
-</div>
+</td></tr>
+<tr><td>
 
-<br/>
+### 🏥 [Delumie](https://github.com/AkshaySasi/Delumie)
+**Local AI Healthcare Companion**
 
-<details>
-<summary><b>🧠 Neurogram — Cognitive Memory Architecture for AI Agents</b></summary>
-<br/>
+Privacy-first healthcare AI running entirely on local LLM inference via Ollama. Zero cloud dependency.
 
-> *What if AI agents could remember like humans do?*
+`Ollama` `Local AI` `Healthcare` `Privacy-First`
 
-A biologically-inspired memory system giving AI agents **semantic, episodic, and procedural memory** — complete with Ebbinghaus forgetting curves, memory consolidation, and importance scoring.
+</td></tr>
+<tr><td>
 
-`semantic memory` `episodic memory` `procedural memory` `forgetting curves` `SQLite` `LangChain`
+### 🎧 [GROOVE](https://github.com/AkshaySasi/GROOVE)
+**AI Audio Generation Framework**
 
-</details>
+Experimental platform for AI-generated music and audio branding. Generative sound pipelines & audio prompt engineering.
 
-<details>
-<summary><b>🔐 GlassLM — Privacy-Preserving LLM Middleware</b></summary>
-<br/>
+`Generative Audio` `AI Music` `Creative AI`
 
-> *Your prompts shouldn't cost you your privacy.*
-
-Intercepts and sanitizes prompts **before they reach LLM APIs**. Reversible tokenization, client-side processing, Chrome extension + developer SDKs (`pip` + `npm`).
-
-</details>
-
-<details>
-<summary><b>🏥 Delumie — Local AI Healthcare Companion</b></summary>
-<br/>
-
-Privacy-first healthcare AI running **entirely on local LLM inference** via Ollama. Modular health guidance, personalized wellness — zero cloud dependency.
-
-</details>
-
-<details>
-<summary><b>🎧 GROOVE — AI Audio Generation Framework</b></summary>
-<br/>
-
-Experimental platform for AI-generated music and audio branding. Generative sound pipelines, audio prompt engineering, creative AI workflows.
-
-</details>
+</td></tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
