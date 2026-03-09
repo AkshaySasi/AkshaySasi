@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Akshay Sasi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&lines=AI+Engineer;GenAI+Systems+Builder;Agentic+AI+Researcher;Cognitive+Computing+Enthusiast;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&lines=AI+Engineer;GenAI+Systems+Builder;Agentic+AI+Researcher;Cognitive+Computing+Dev;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
