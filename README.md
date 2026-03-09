@@ -86,14 +86,62 @@ Experimental platform for AI-generated music and audio branding. Generative soun
 
 ## <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="30"> &nbsp;Research Lab
 
-<div align="center">
+<table>
+<tr><td>
 
-**Heart-Brain Connection** · EEG + ECG Signal Fusion · 🎯 **92% accuracy**
-**Edge AI Voice Agent** · Whisper.cpp + Quantized LLM · ⚡ <500ms latency
-**LLM Alignment Stability** · Behavioral drift under data corruption
-**Agent Memory Systems** · Cross-session knowledge persistence
+### 🧠 Unveiling the Heart-Brain Connection
+**Multimodal Physiological Signal Analysis — EEG + ECG**
 
-</div>
+Cognitive state classification using fused EEG and ECG signals. Built a full pipeline from signal preprocessing to ML classification.
+
+🎯 **92% classification accuracy**
+
+`Python` `NeuroKit2` `MNE` `Signal Processing` `Machine Learning`
+
+</td></tr>
+<tr><td>
+
+### 🤖 Edge AI Voice Agent
+**Low-Latency Offline Voice Assistant**
+
+Fully offline voice interaction system optimized for edge hardware. ASR → LLM reasoning → TTS, all running locally with no cloud dependency.
+
+⚡ **Target latency: <500ms**
+
+`Whisper.cpp` `Quantized LLM` `Edge AI` `Wake-word Detection`
+
+</td></tr>
+<tr><td>
+
+### 🎧 [GROOVE](https://github.com/AkshaySasi/GROOVE)
+**AI Audio Generation Research**
+
+Exploring generative audio pipelines for music creation and audio branding. Experimenting with AI-driven sound synthesis and audio prompt engineering.
+
+`Generative Audio` `Sound Synthesis` `Prompt Engineering` `Creative AI`
+
+</td></tr>
+<tr><td>
+
+### 🔬 LLM Alignment Stability
+**Behavioral Drift Under Data Corruption**
+
+Studying how LLM fine-tuning behavior degrades under corrupted training data. Analyzing alignment stability and model robustness.
+
+`LLM Safety` `Fine-tuning` `Alignment Research` `Behavioral Analysis`
+
+</td></tr>
+<tr><td>
+
+### 🧬 Agent Memory Systems
+**Cross-Session Knowledge Persistence**
+
+Research into long-term memory retention for autonomous AI agents — how agents maintain, consolidate, and recall knowledge across sessions.
+
+`Cognitive AI` `Memory Architecture` `Agent Systems` `Knowledge Graphs`
+
+</td></tr>
+</table>
 
 <br/>
 
