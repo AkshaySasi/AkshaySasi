@@ -8,9 +8,9 @@
 <br/>
 
 <a href="https://akshaysasi.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-akshaysasi.github.io-black?style=for-the-badge&logo=googlechrome&logoColor=06B6D4&labelColor=0d0d0d&color=0d0d0d"/></a>
-&nbsp;
+<br/>
 <a href="https://linkedin.com/in/akshaysasi"><img src="https://img.shields.io/badge/LINKEDIN-akshaysasi-black?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=0d0d0d&color=0d0d0d"/></a>
-&nbsp;
+<br/>
 <a href="mailto:akshaysasi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-akshaysasi-black?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=0d0d0d&color=0d0d0d"/></a>
 
 </div>
@@ -20,8 +20,6 @@
 <br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About Me
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
 
 I build **AI systems, intelligent agents, and applied machine learning solutions** that bridge research and real-world deployment.
 
@@ -33,8 +31,6 @@ I build **AI systems, intelligent agents, and applied machine learning solutions
 
 > *I don't just use AI — I engineer the systems that make AI work.*
 
-<br clear="right"/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -44,21 +40,25 @@ I build **AI systems, intelligent agents, and applied machine learning solutions
 <div align="center">
 
 <a href="https://github.com/AkshaySasi/Neurogram">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=Neurogram&theme=radical&bg_color=0d1117&border_color=8B5CF6&icon_color=06B6D4&title_color=EC4899&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AkshaySasi/GlassLM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=GlassLM&theme=radical&bg_color=0d1117&border_color=06B6D4&icon_color=8B5CF6&title_color=EC4899&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=Neurogram&theme=radical&bg_color=0d1117&border_color=8B5CF6&icon_color=06B6D4&title_color=EC4899&text_color=c9d1d9" width="90%"/>
 </a>
 
-<br/><br/>
+<br/>
+
+<a href="https://github.com/AkshaySasi/GlassLM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=GlassLM&theme=radical&bg_color=0d1117&border_color=06B6D4&icon_color=8B5CF6&title_color=EC4899&text_color=c9d1d9" width="90%"/>
+</a>
+
+<br/>
 
 <a href="https://github.com/AkshaySasi/Delumie">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=Delumie&theme=radical&bg_color=0d1117&border_color=EC4899&icon_color=06B6D4&title_color=8B5CF6&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=Delumie&theme=radical&bg_color=0d1117&border_color=EC4899&icon_color=06B6D4&title_color=8B5CF6&text_color=c9d1d9" width="90%"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/AkshaySasi/Groove">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=Groove&theme=radical&bg_color=0d1117&border_color=8B5CF6&icon_color=EC4899&title_color=06B6D4&text_color=c9d1d9" />
+
+<br/>
+
+<a href="https://github.com/AkshaySasi/GROOVE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshaySasi&repo=GROOVE&theme=radical&bg_color=0d1117&border_color=8B5CF6&icon_color=EC4899&title_color=06B6D4&text_color=c9d1d9" width="90%"/>
 </a>
 
 </div>
@@ -96,7 +96,7 @@ Privacy-first healthcare AI running **entirely on local LLM inference** via Olla
 </details>
 
 <details>
-<summary><b>🎧 Groove — AI Audio Generation Framework</b></summary>
+<summary><b>🎧 GROOVE — AI Audio Generation Framework</b></summary>
 <br/>
 
 Experimental platform for AI-generated music and audio branding. Generative sound pipelines, audio prompt engineering, creative AI workflows.
@@ -111,12 +111,10 @@ Experimental platform for AI-generated music and audio branding. Generative soun
 
 <div align="center">
 
-| Experiment | Domain | Highlight |
-|:---:|:---:|:---:|
-| **Heart-Brain Connection** | EEG + ECG Signal Fusion | 🎯 **92% accuracy** — cognitive state detection |
-| **Edge AI Voice Agent** | Offline Voice AI | ⚡ Whisper.cpp + Quantized LLM, <500ms latency |
-| **LLM Alignment Stability** | AI Safety | 🔬 Behavioral drift under data corruption |
-| **Agent Memory Systems** | Cognitive AI | 🧬 Cross-session knowledge persistence |
+**Heart-Brain Connection** · EEG + ECG Signal Fusion · 🎯 **92% accuracy**
+**Edge AI Voice Agent** · Whisper.cpp + Quantized LLM · ⚡ <500ms latency
+**LLM Alignment Stability** · Behavioral drift under data corruption
+**Agent Memory Systems** · Cross-session knowledge persistence
 
 </div>
 
@@ -132,25 +130,29 @@ Experimental platform for AI-generated music and audio branding. Generative soun
 
 <div align="center">
 
-### 🤖 AI / ML
+**🤖 AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=06B6D4)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EC4899)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=8B5CF6)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=06B6D4)
 ![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logoColor=EC4899)
 
-### 🔗 LLM Systems & Infra
+**🔗 LLM Systems & Infra**
+
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=8B5CF6)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=06B6D4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=8B5CF6)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=EC4899)
 
-### 📊 Data & Research
+**📊 Data & Research**
+
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=8B5CF6)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=06B6D4)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=EC4899)
 
-### 🎨 Interface & Prototyping
+**🎨 Interface & Prototyping**
+
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=06B6D4)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=EC4899)
 ![Gradio](https://img.shields.io/badge/Gradio-0d1117?style=for-the-badge&logoColor=8B5CF6)
@@ -165,13 +167,15 @@ Experimental platform for AI-generated music and audio branding. Generative soun
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshaySasi&show_icons=true&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&icon_color=06B6D4&hide_border=true&border_color=8B5CF6" height="170"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=AkshaySasi&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkshaySasi&show_icons=true&bg_color=0d1117&title_color=EC4899&text_color=c9d1d9&icon_color=06B6D4&hide_border=true" width="90%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySasi&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=AkshaySasi&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySasi&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&hide_border=true" width="90%"/>
 
 <br/><br/>
 
@@ -191,7 +195,7 @@ I love collaborating on **AI systems, tools, and research experiments.**
 
 `AI Agent Frameworks` `LLM Infrastructure` `Cognitive Computing` `AI Safety Research` `Developer Tooling`
 
-⭐ Star the repos &nbsp;•&nbsp; 🐛 Open issues &nbsp;•&nbsp; 🔧 Submit PRs
+⭐ Star the repos · 🐛 Open issues · 🔧 Submit PRs
 
 </div>
 
@@ -199,11 +203,7 @@ I love collaborating on **AI systems, tools, and research experiments.**
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AkshaySasi&style=for-the-badge&color=8B5CF6&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AkshaySasi&style=for-the-badge&color=8B5CF6&labelColor=0d0d0d&label=PROFILE+VIEWS"/>
 
 </div>
 
